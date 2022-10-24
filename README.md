@@ -1,4 +1,4 @@
-# Проект: Змейка
+# Проект: Pong
 Сайт на GitHub Pages: https://semen1996.github.io/game-pong/ 
 
 Игра "Pong".
